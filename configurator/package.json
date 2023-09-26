@@ -1,0 +1,37 @@
+{
+    "name": "xmatters-sync-configurator",
+    "version": "1.0.0",
+    "homepage": ".",
+    "description": "xmatters-sync configurator",
+    "author": "Brannon Vann",
+    "license": "ISC",
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build && gulp && node post-build",
+        "test": "react-scripts test"
+    },
+    "dependencies": {
+        "bootstrap": "^4.6.0",
+        "react": "^17.0.1",
+        "react-dom": "^17.0.1",
+        "react-scripts": "^4.0.3",
+        "xmtoolbox": "^1.2.20"
+    },
+    "devDependencies": {
+        "gulp": "^4.0.2",
+        "gulp-inline-source": "^4.0.0",
+        "gulp-replace": "^1.0.0"
+    },
+    "browserslist": {
+        "production": [
+            ">0.2%",
+            "not dead",
+            "not op_mini all"
+        ],
+        "development": [
+            "last 1 chrome version",
+            "last 1 firefox version",
+            "last 1 safari version"
+        ]
+    }
+}

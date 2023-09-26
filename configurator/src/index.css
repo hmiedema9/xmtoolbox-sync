@@ -1,0 +1,43 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    width: 100%;
+}
+
+.help-button {
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    padding: 4px 0;
+    font-size: 8px;
+    line-height: 1.428571429;
+    border-radius: 10px;
+}
+
+.title {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.sidenav {
+    position: fixed;
+    z-index: 1;
+    top: 5px;
+    left: 5px;
+    overflow-x: hidden;
+    padding: 8px 0;
+}
+
+.sidenav a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 20px;
+    display: block;
+}
+
+.underline {
+    text-decoration: underline;
+}

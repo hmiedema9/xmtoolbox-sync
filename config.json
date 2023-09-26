@@ -1,0 +1,41 @@
+{
+  "subdomain": "dotfoods-np",
+  "password": "",
+  "username": "",
+  "workflowEndpoint": "",
+  "logLevel": "debug",
+  "mirrorTag": "XMSYNC_",
+  "users": {
+    "sync": true,
+    "inputPath": "./input/userInput.csv",
+    "mirrorMode": "greedy",
+    "targetNameInput": "User ID",
+    "webLoginInput": "User ID",
+    "firstNameInput": "First Name",
+    "lastNameInput": "Last Name",
+    "languageDefault": "en",
+    "externallyOwnedDefault": true,
+    "rolesInitial": "Standard User",
+    "siteDefault": "Default Site",
+    "timezoneInitial": "US/Central",
+    "statusDefault": "ACTIVE",
+    "licenseTypeInput": "License Type",
+    "licenseTypeDefault": "STAKEHOLDER_USER"
+  },
+  "devices": {
+    "sync": true,
+    "inputPath": "./input/userInput.csv",
+    "mirrorMode": "greedy",
+    "ownerInput": "User ID",
+    "devices": [
+      {
+        "input": "Email",
+        "name": "Work Email"
+      },
+      {
+        "input": "Work Phone",
+        "name": "Work Phone"
+      }
+    ]
+  }
+}

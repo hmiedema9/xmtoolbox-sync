@@ -1,0 +1,4 @@
+Name,Country,State,City,Address 1,Address 2,Postal Code,Latitude,Longitude,Language,Timezone,Status,
+Atlanta,USA,Georgia,Atlanta,"206 Washington St., S.W.",,30335,33.748783,-84.388168,en,US/Eastern,ACTIVE
+New York,USA,New York,Albany,"State St. and, Washington Ave",,12224,42.6528,-73.7572,en,US/Eastern,ACTIVE
+San Ramon,USA,San Ramon,California,12647 Alcosta Blvd,Suite 245,94583,37.772745431336254,-121.95984310505699,en,US/Pacific,ACTIVE

@@ -1,0 +1,31 @@
+{
+    "name": "xmatters-sync",
+    "version": "1.4.5",
+    "scripts": {
+        "test": "mocha",
+        "sync": "node ./bin/sync"
+    },
+    "dependencies": {
+        "xmtoolbox": "^1.2.20"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://bitbucket.org/xmatters-consulting/xmatters-sync.git"
+    },
+    "author": "Brannon Vann",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://bitbucket.org/xmatters-consulting/xmatters-sync/issues"
+    },
+    "homepage": "https://bitbucket.org/xmatters-consulting/xmatters-sync",
+    "prettier": {
+        "trailingComma": "es5",
+        "printWidth": 110,
+        "tabWidth": 4,
+        "singleQuote": true,
+        "arrowParens": "avoid"
+    },
+    "bin": {
+        "sync": "./bin/sync.js"
+    }
+}

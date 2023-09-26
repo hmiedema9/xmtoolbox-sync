@@ -1,0 +1,189 @@
+.btn-xm {
+    background-color: #0050ff !important;
+    border-color: #0050ff !important;
+    color: #fff !important;
+}
+
+.active,
+.btn-xm:hover {
+    background-color: #070707 !important;
+    border-color: #070707 !important;
+    color: #fff !important;
+}
+
+.btn-xm:active {
+    background-color: #070707 !important;
+    border-color: #070707 !important;
+    color: #fff !important;
+}
+
+.btn-xm-grey {
+    background-color: #444444 !important;
+    border-color: #444444 !important;
+}
+
+.btn-xm-grey:hover {
+    background-color: #111111 !important;
+    border-color: #111111 !important;
+    color: #fff !important;
+}
+
+.btn-xm-dark-solid {
+    background-color: #070707 !important;
+    border-color: #070707 !important;
+    color: #fff !important;
+}
+
+.btn-xm:hover {
+    background-color: #070707 !important;
+    border-color: #070707 !important;
+    color: #fff !important;
+}
+
+.btn-link-xm {
+    color: #0050ff !important;
+}
+
+.btn-link-xm:hover {
+    color: #070707 !important;
+}
+
+a {
+    color: #0050ff !important;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:active {
+    color: #070707 !important;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #070707 !important;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+.link-xm {
+    color: #0050ff !important;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+.link-xm:active {
+    color: #070707 !important;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+.link-xm:hover {
+    color: #070707 !important;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+.link-xm-greyblue {
+    color: #79878f !important;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+.link-xm-greyblue:active {
+    color: #444444 !important;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+.link-xm-greyblue:hover {
+    color: #444444 !important;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+.hamburger-xm {
+    width: 25px;
+    height: 4px;
+    background-color: #444444;
+    margin: 3px 0;
+}
+
+.underline {
+    text-decoration: underline;
+}
+.text-xm-black {
+    color: #070707 !important;
+}
+
+.text-xm-blue {
+    color: #0050ff !important;
+}
+
+.text-xm-turquoise {
+    color: #42c6c7 !important;
+}
+
+.text-xm-slate {
+    color: #6c63ff !important;
+}
+
+.text-xm-violet {
+    color: #8d49b6 !important;
+}
+
+.text-xm-green {
+    color: #99cc00 !important;
+}
+
+.text-xm-grey {
+    color: #444444 !important;
+}
+
+.text-xm-greyblue {
+    color: #79878f !important;
+}
+
+.text-xm-lightgrey {
+    color: #eeefef !important;
+}
+
+.text-xm-lightergrey {
+    color: #f8f9f9 !important;
+}
+
+.bg-xm-blue {
+    background-color: #0050ff !important;
+}
+
+.bg-xm-turquoise {
+    background-color: #42c6c7 !important;
+}
+
+.bg-xm-slate {
+    background-color: #6c63ff !important;
+}
+
+.bg-xm-violet {
+    background-color: #8d49b6 !important;
+}
+
+.bg-xm-green {
+    background-color: #99cc00 !important;
+}
+
+.bg-xm-grey {
+    background-color: #444444 !important;
+}
+
+.bg-xm-greyblue {
+    background-color: #79878f !important;
+}
+
+.bg-xm-lightgrey {
+    background-color: #eeefef !important;
+}
+
+.bg-xm-lightergrey {
+    background-color: #f8f9f9 !important;
+}
